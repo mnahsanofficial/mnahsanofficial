@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [👉](https://medium.com/@mnahsanofficial)
 
-- 💬 Ask me about **Angular, Python-Django, SQA etc.**
+- 💬 Ask me about **Angular, React, Next.js, Python-Django, Node.js, NestJS, SQA etc.**
 
 - 📫 How to reach me **mnahsanofficial@gmail.com**
 
